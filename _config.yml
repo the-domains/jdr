@@ -1,0 +1,14 @@
+layout_spectrum: 0.5476988735608757
+typography_spectrum: 0.9571643425151706
+color:
+  brandStrength: 0.6250329166650772
+  lightness: 0.5635668376926333
+  saturation: 0.02996612642891705
+  rhythmicContrast: 0.2076894505880773
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: JDR
