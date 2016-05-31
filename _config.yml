@@ -12,3 +12,6 @@ color:
     - '#7B52AB'
     - '#9768D1'
 name: JDR
+author:
+  name: Joshua David Riegel
+  email: jdr@joshuadavidriegel.com
