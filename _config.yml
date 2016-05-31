@@ -1,4 +1,3 @@
-layout_spectrum: 0.5476988735608757
 typography_spectrum: 0.9571643425151706
 color:
   brandStrength: 0.6250329166650772
@@ -11,7 +10,9 @@ color:
     - '#553285'
     - '#7B52AB'
     - '#9768D1'
-name: JDR
+layout_spectrum: 0.5476988735608757
 author:
   name: Joshua David Riegel
   email: jdr@joshuadavidriegel.com
+name: JDR
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/abaf7544-c270-444c-9575-bc661a1df245.png'
